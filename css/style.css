@@ -1,0 +1,185 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Subrayada&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=BioRhyme&display=swap');
+
+
+.opening-box{
+    height: 1000px;
+    background: #24252A url("images/02.png");
+    font-family: 'Zen Dots', cursive;
+    color: white;
+}
+.opening-box h1{
+    position: absolute;
+    left: 100px;
+    top: 200px;
+    font-size: 40px;
+}
+.opening-box h5{
+    position: absolute;
+    left: 100px;
+    top: 275px;
+    padding-right: 100px;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.project-card-1{
+    border: 2px white solid;
+    position: absolute;
+    width: 24%;
+    height: 400px;
+    top: 550px;
+    left: 100px;
+    color: white;
+    border-radius: 10px;
+    padding: 0px 10px;
+    font-family: 'BioRhyme', serif;
+}
+
+.project-card-1 h1{
+    text-align: center;
+    padding-top: 5px;
+    padding-left: 35px;
+}
+
+.project-card-1 img{
+    position: absolute;
+    padding-top: 0px;
+    margin-right: 15px
+}
+
+.project-card-1:hover{
+    background-color: #0088A9;
+    transition: all 0.4s ease 0s;
+    color: white;
+}
+.project-card-1{
+    border: 2px white solid;
+    position: absolute;
+    width: 24%;
+    height: 400px;
+    top: 560px;
+    left: 100px;
+    color: white;
+    border-radius: 10px;
+    padding: 0px 10px;
+    font-family: 'BioRhyme', serif;
+}
+
+.project-card-1 h1{
+    text-align: center;
+    padding-top: 5px;
+    padding-left: 35px;
+}
+
+.project-card-1 img{
+    position: absolute;
+    padding-top: 0px;
+    margin-right: 15px
+}
+
+.project-card-1 button{
+    align-items: center;
+}
+
+.project-card-1:hover{
+    background-color: rgba(0, 136, 169, 0.3);
+    transition: all 0.4s ease 0s;
+    color: white;
+}
+.project-card-2{
+    border: 2px white solid;
+    position: absolute;
+    width: 24%;
+    height: 400px;
+    top: 560px;
+    left: 880px;
+    color: white;
+    border-radius: 10px;
+    padding: 0px 10px;
+    font-family: 'BioRhyme', serif;
+}
+
+.project-card-2 h1{
+    text-align: center;
+    padding-top: 5px;
+    padding-left: 35px;
+}
+
+.project-card-2 img{
+    position: absolute;
+    padding-top: 0px;
+    margin-right: 15px
+}
+
+.project-card-2:hover{
+    background-color: rgba(0, 136, 169, 0.3);
+    transition: all 0.4s ease 0s;
+    color: white;
+}
+.project-card-3{
+    border: 2px white solid;
+    position: absolute;
+    width: 24%;
+    height: 400px;
+    top: 560px;
+    left: 490px;
+    color: white;
+    border-radius: 10px;
+    padding: 0px 10px;
+    font-family: 'BioRhyme', serif;
+}
+
+.project-card-3 h1{
+    text-align: center;
+    padding-top: 5px;
+    padding-left: 35px;
+}
+
+.project-card-3 img{
+    position: absolute;
+    padding-top: 0px;
+    margin-right: 15px
+}
+
+.project-card-3:hover{
+    background-color: rgba(0, 136, 169, 0.3);
+    transition: all 0.4s ease 0s;
+    color: white;
+}
+.project-card-4{
+    border: 2px white solid;
+    position: absolute;
+    width: 24%;
+    height: 400px;
+    top: 1010px;
+    left: 490px;
+    color: white;
+    border-radius: 10px;
+    padding: 0px 10px;
+    font-family: 'BioRhyme', serif;
+
+}
+
+.project-card-4 h1{
+    text-align: center;
+    padding-top: 5px;
+    padding-left: 35px;
+}
+
+p{
+    text-align: center;
+}
+.project-card-4 img{
+    position: absolute;
+    padding-top: 0px;
+    margin-right: 15px
+}
+
+.project-card-4:hover{
+    background-color: rgba(0, 136, 169, 0.3);
+    transition: all 0.4s ease 0s;
+    color: white;
+}
